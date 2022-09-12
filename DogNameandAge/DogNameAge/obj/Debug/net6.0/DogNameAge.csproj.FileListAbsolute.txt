@@ -1,0 +1,15 @@
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/bin/Debug/net6.0/DogNameAge
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/bin/Debug/net6.0/DogNameAge.deps.json
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/bin/Debug/net6.0/DogNameAge.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/bin/Debug/net6.0/DogNameAge.dll
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/bin/Debug/net6.0/DogNameAge.pdb
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.dll
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/refint/DogNameAge.dll
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.pdb
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/DogNameAge.genruntimeconfig.cache
+/Users/deucey1tap/Desktop/repos/variables3/DogNameandAge/DogNameAge/obj/Debug/net6.0/ref/DogNameAge.dll
